@@ -66,10 +66,3 @@
 <p align="center">
   <img src="https://i.imgur.com/XJztNu9.png">
 </p>
-
-# Kraken
-# Kraken
-# Kraken
-# Kraken
-# Kraken
-# Kraken
